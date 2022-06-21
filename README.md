@@ -1,4 +1,0 @@
-# `Inventex Development`
-
-🎪 Under development
-
