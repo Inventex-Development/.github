@@ -8,5 +8,5 @@
 img/>
 
 - Enterprise-grade plugin development for Minecraft.
-- Website: [Click here](inventex.dev)
+- Website: [Click here](https://inventex.dev/)
 - Discord: [Click here](dc.inventex.dev)
